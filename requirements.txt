@@ -1,0 +1,7 @@
+streamlit
+numpy
+opencv-python-headless==4.7.0.72
+pdf2image
+scikit-learn
+Pillow
+matplotlib
